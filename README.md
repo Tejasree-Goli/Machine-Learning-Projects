@@ -12,3 +12,9 @@ Each project folder contains:
   <li> Dataset </li>
   <li> README file - details project objective, implementation method, conclusion </li>
 </ul>
+
+
+---
+> "Machine learning is a core, transformative way by which we're rethinking everything we're doing."
+
+- Sundar Pichai
