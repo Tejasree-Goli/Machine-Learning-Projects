@@ -10,3 +10,6 @@ After performing exploratory data anaysis, implemented XGBoost Classifier and CN
 
 **Challenges**:
 Dealing with multiple categories of toxicity (e.g., hate speech, insults, threats) can make classification more complex. Developing a model that accurately identifies and categorizes each type of toxic comment is a challenge.
+
+**!Note**:
+The data file size is too large to upload here. Hence, try to access it through Kaggle website. The url is provided above.
