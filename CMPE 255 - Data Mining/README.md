@@ -8,7 +8,7 @@ Large Movie Review Dataset.
 This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide 25,000 highly polar movie reviews for training and 25,000 for testing. There is additional unlabeled data for use as well.
 
 **Dataset Source**: 
-[a link](https://ai.stanford.edu/~amaas/data/sentiment/)
+[Movie Reviews Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
     
 **Problem Statement**:
 
