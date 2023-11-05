@@ -1,5 +1,5 @@
-# CMPE-255: Project
-## Data Mining Project - Performance Comparison of ML Algorihms for Text Classification
+# CMPE-255 [Data Mining]: Project
+## Performance Comparison of ML Algorihms for Text Classification
 
 
 **Dataset**: 
